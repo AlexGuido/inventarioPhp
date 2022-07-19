@@ -1,4 +1,4 @@
-# Point of Sale
+# Punto de venta
 [![index.png](https://i.postimg.cc/Bny0MFRw/index.png)](https://postimg.cc/k2xz52Jx)
 
 Administrador de un sistema de inventario para ventas, facturación, clientes, vendedores y proveedores. 
